@@ -13,7 +13,7 @@ c3x = valor + (10*valor/100)
 cx = valor + (12.5 * valor / 100)
 if escolha == 1:
     print('VOCÊ ESCOLHEU A OPÇÃO DINHEIRO.')
-    print('VOCÊ IRÁ PAGAR R$ {:.2f}, PAGANDO NO DINHEIRO VOCÊ POSSUÍ UM DESCONTO DE 5% DO VALOR TOTAL.'.format(dinheiro))
+    print('VOCÊ IRÁ PAGAR R$ {:.2f}, PAGANDO NO DINHEIRO VOCÊ POSSUI UM DESCONTO DE 5% DO VALOR TOTAL.'.format(dinheiro))
 elif escolha == 2:
     print('VOCÊ ESCOLHEU A OPÇÃO CRÉDITO À VISTA.')
     print('VOCÊ IRÁ PAGAR R$ {:.2f}, PAGANDO NO CRÉDITO À VISTA, VOCÊ PAGARÁ O VALOR TOTAL COM UM JUROS DE 5%.'.format(crédito))
